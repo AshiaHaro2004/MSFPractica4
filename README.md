@@ -1,8 +1,8 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Osiris-1904/MSFPractica4)
 # Práctica 4: Modelo del sistema endocrino
 
-## Información del estudiante
-Osiris Jaylin Chavez Hernandez \[23210697]; l23210697@tijuana.tecn.mx
+## Información de la estudiante
+Angelica Ashia Haro Najar \[23210708]; l23210708@tijuana.tecn.mx
 
 Modelado de Sistemas Fisiológicos
 
