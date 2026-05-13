@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica: Sistema Endocrino'
+message: Modelado de Sistemas Fisiologicos / Ingenieria Biomedica
+type: software
+authors:
+  - given-names: Ashia
+    name-particle: Angelica
+    family-names: Haro Najar
+    email: l23210708@tectijuana.edu.mx
+    affiliation: Instituto Tecnologico de Tijuana
+identifiers:
+  - type: url
+    value: 'https://github.com/AshiaHaro2004/MSFPractica4'
+    description: Repositorio de GitHub
+repository-code: 'https://github.com/AshiaHaro2004/MSFPractica4'
+keywords:
+  - ' Hormonas'
+  - Glándulas endocrinas
+  - Regulación metabólica
+  - Homeostasis
+  - Retroalimentación hormonal
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-05-13'
